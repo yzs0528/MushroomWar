@@ -1,0 +1,12 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "f:\\unreal projects\\mushroomwars\\plugins\\developer\\riderlink\\source\\rd\\thirdparty\\thirdparty.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "f:\\unreal projects\\mushroomwars\\plugins\\developer\\riderlink\\intermediate\\build\\win64\\unrealeditor\\debuggame\\rd\\definitions.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
